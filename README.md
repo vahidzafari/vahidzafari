@@ -2,8 +2,8 @@
 
 I am a full-stack engineer and designer. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-zafarivahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zafarivahid/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Gmail Badge](https://img.shields.io/badge/-zafarivahid@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zafarivahid@gmail.com)](mailto:kanna6501@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-zafarivahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vahid-zafari-b509b6166/)](https://www.linkedin.com/in/vahid-zafari-b509b6166/)
+[![Gmail Badge](https://img.shields.io/badge/-zafarivahid@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zafarivahid@gmail.com)](mailto:zafarivahid@gmail.com)
 
 ## Stacks & Skills
 
@@ -65,4 +65,4 @@ I am a full-stack engineer and designer. I am a tech enthusiast & an open-source
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi) -->
