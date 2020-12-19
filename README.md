@@ -59,6 +59,7 @@ I am a full-stack engineer and designer. I am a tech enthusiast & an open-source
   ![Git Flow](https://img.shields.io/badge/-Git_Flow-white?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github&logoColor=black)
   ![GitLab](https://img.shields.io/badge/-GitLab-white?style=flat-square&logo=gitlab)
+  ![CI/CD](https://img.shields.io/badge/-CI/CD-white?style=flat-square&logo=gitlab)
 
 - Testing Tools
   <br/>
