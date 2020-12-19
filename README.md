@@ -22,6 +22,10 @@ I am a full-stack engineer and designer. I am a tech enthusiast & an open-source
   ![SOLID](https://img.shields.io/badge/-SOLID-white?style=flat-square)
   ![Design Pattern](https://img.shields.io/badge/-Design_Pattern-white?style=flat-square)
   ![DDD](https://img.shields.io/badge/-DDD-white?style=flat-square)
+  ![Monolotic](https://img.shields.io/badge/-Monolotic-white?style=flat-square)
+  ![Microservice](https://img.shields.io/badge/-Microservice-white?style=flat-square)
+  ![EventSourcing](https://img.shields.io/badge/-EventSourcing-white?style=flat-square)
+  ![CQRS](https://img.shields.io/badge/-CQRS-white?style=flat-square)
 
 - Databases
   <br/>
