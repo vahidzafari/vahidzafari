@@ -5,7 +5,7 @@ I am a full-stack engineer and designer. I am a tech enthusiast & an open-source
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@zafarivahid)](https://medium.com/@zafarivahid)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vahid-zafari-b509b6166/)](https://www.linkedin.com/in/vahid-zafari-b509b6166/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zafarivahid@gmail.com)](mailto:zafarivahid@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-c14438?style=flat-square&color=darkgreen&logo=whatsapp&logoColor=white&link=tel:00989128149776)](tel:00989128149776)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-c14438?style=flat-square&color=darkgreen&logo=whatsapp&logoColor=white&link=https://wa.me/989128149776)](https://wa.me/989128149776)
 [![Website](https://img.shields.io/badge/Portfolio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://vahidzafari.github.io/)
 
 ## Stacks & Skills
@@ -48,7 +48,7 @@ I am a full-stack engineer and designer. I am a tech enthusiast & an open-source
   <br/>
   ![Django](https://img.shields.io/badge/-Django-white?style=flat-square&logo=Django&logoColor=darkgreen)
   ![Flask](https://img.shields.io/badge/-Flask-white?style=flat-square&logo=Flask&logoColor=darkgreen)
-  ![Express.JS](https://img.shields.io/badge/-Express.JS-white?style=flat-square&logo=ExpressJS&logoColor=darkblue)
+  ![Express.JS](https://img.shields.io/badge/-Express.JS-white?style=flat-square&logo=express&logoColor=darkblue)
   ![Nest.JS](https://img.shields.io/badge/-Nest.JS-white?style=flat-square&logo=NestJS&logoColor=red)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-white?style=flat-square&logo=graphql&logoColor=red)
   ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-white?style=flat-square&logo=apollo-graphql&logoColor=red)
