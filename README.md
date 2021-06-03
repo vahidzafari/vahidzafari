@@ -2,9 +2,11 @@
 
 I am a full-stack engineer and designer. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@zafarivahid)](https://medium.com/@zafarivahid)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vahid-zafari-b509b6166/)](https://www.linkedin.com/in/vahid-zafari-b509b6166/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zafarivahid@gmail.com)](mailto:zafarivahid@gmail.com)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@zafarivahid)](https://medium.com/@zafarivahid)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vahid-zafari-b509b6166/)](https://www.linkedin.com/in/vahid-zafari-b509b6166/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zafarivahid@gmail.com)](mailto:zafarivahid@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-c14438?style=flat-square&color=darkgreen&logo=whatsapp&logoColor=white&link=tel:00989128149776)](tel:00989128149776)
+[![Website](https://img.shields.io/badge/Portfolio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://vahidzafari.github.io/)
 
 ## Stacks & Skills
 
@@ -12,7 +14,7 @@ I am a full-stack engineer and designer. I am a tech enthusiast & an open-source
   <br/>
   ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript&logoColor=blue)
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)
+  ![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
   ![Lua](https://img.shields.io/badge/-Lua-white?style=flat-square&logo=lua&logoColor=blue)
   ![Shell](https://img.shields.io/badge/-Shell-white?style=flat-square&logo=Shell&logoColor=green)
