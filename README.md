@@ -1,6 +1,8 @@
 # Hi, I'm Vahid
 
-I am a full-stack engineer and designer. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am a full-stack engineer and designer. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
+My hobbies: Montain climbing, reading books, swimming, creating hand crafted software, learning new things in software, try to create a new instance of linux and ethereum, be useful for this world.
+Find out more about me & feel free to connect with me here:
 
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@zafarivahid)](https://medium.com/@zafarivahid)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vahid-zafari-b509b6166/)](https://www.linkedin.com/in/vahid-zafari-b509b6166/)
