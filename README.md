@@ -1,7 +1,19 @@
-# Hi, I'm Vahid
+# Hi, I'm Vahid Zafari
 
-I am a full-stack engineer and designer. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
-My hobbies: Montain climbing, reading books, swimming, creating hand crafted software, learning new things in software, try to create a new instance of linux and ethereum, be useful for this world.
+Born in 1986 and after 2005 became a python programmer. I dropout the university because of the low level education after that start learning the university courses myself from https://github.com/ossu/computer-science#intro-cs. I always like to be a full-stack designer and developer which can mixed architecture with code. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Some of my hobbies are montain climbing, reading books, swimming, creating hand crafted software, learning new things.
+
+## My experiences
+
+- Frontend developer (Vue.js): create a chat application in Vue.js with the technologies like webrtc, RBAC
+- Frontend developer (Vue.js): create a e-commerce application in Vue.js for a restaurant (over 1000 pages)
+- Frontend developer (React.js): create a cryptocurency application in React.js for PSP, Exchange, Reports, Charts
+- Backend developer (Python): create a print server application for printing restaurant jobs
+- Backend developer (Python): create a Car Number detection in python with OCR
+- Product manager: working as a product manager for an ecommerce website www.ahan.vip and used tools like jira (project managment), draw.io (for creating UML, Database schema, Application Scaffold, ...), Slack (for communication), Figma (for designers). Connect team members to each other and solve their problems
+- Product owner: working as a product owner for an cryptocurrency website. Launch exchange, psp. Connect it to Binance APIs. Try to launch a Bitcoin and Ethereum core.
+
+## My contact
+
 Find out more about me & feel free to connect with me here:
 
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@zafarivahid)](https://medium.com/@zafarivahid)
@@ -31,6 +43,10 @@ Find out more about me & feel free to connect with me here:
   ![EventSourcing](https://img.shields.io/badge/-EventSourcing-white?style=flat-square)
   ![CQRS](https://img.shields.io/badge/-CQRS-white?style=flat-square)
 
+- Message Brokers
+  <br/>
+  ![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-white?style=flat-square&logo=Rabbitmq)
+
 - Databases
   <br/>
   ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
@@ -54,6 +70,9 @@ Find out more about me & feel free to connect with me here:
   ![Nest.JS](https://img.shields.io/badge/-Nest.JS-white?style=flat-square&logo=NestJS&logoColor=red)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-white?style=flat-square&logo=graphql&logoColor=red)
   ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-white?style=flat-square&logo=apollo-graphql&logoColor=red)
+  ![GRPC](https://img.shields.io/badge/-GRPC-white?style=flat-square&logo=grpc&logoColor=red)
+  ![Kong Gateway](https://img.shields.io/badge/-KongGateway-white?style=flat-square&logo=konggateway&logoColor=red)
+  ![keyclock](https://img.shields.io/badge/-keycloak-white?style=flat-square&logo=keycloak&logoColor=red)
 
 - Other Tools
   <br/>
