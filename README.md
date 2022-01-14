@@ -15,7 +15,7 @@ Born in 1986 and after 2005 became a python programmer. I dropout the university
 <h3 align="left">My contact:</h3>
 <p align="left">Find out more about me & feel free to connect with me here:</p>
 <p align="left">
-  <a href="https://medium.com/@zafarivahid" target="_blank" rel="noreferrer">
+  <a href="https://medium.com/@zafarivahid" target="_blank" rel="noreferrer" title="https://medium.com/@zafarivahid">
     <img
       src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg"
       alt="medium"
@@ -23,7 +23,7 @@ Born in 1986 and after 2005 became a python programmer. I dropout the university
       height="40"
     />
   </a>
-  <a href="https://www.linkedin.com/in/vahid-zafari/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/vahid-zafari/" target="_blank" rel="noreferrer" title="https://www.linkedin.com/in/vahid-zafari/">
     <img
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
       alt="linkedin"
@@ -31,7 +31,7 @@ Born in 1986 and after 2005 became a python programmer. I dropout the university
       height="40"
     />
   </a>
-  <a href="https://wa.me/989128149776" target="_blank" rel="noreferrer">
+  <a href="https://wa.me/989128149776" target="_blank" rel="noreferrer" title="+989128149776">
     <img
       src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg"
       alt="whatsapp"
@@ -39,7 +39,7 @@ Born in 1986 and after 2005 became a python programmer. I dropout the university
       height="40"
     />
   </a>
-  <a href="mailto:zafarivahid@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:zafarivahid@gmail.com" target="_blank" rel="noreferrer" title="zafarivahid@gmail.com">
     <img
       src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
       alt="gmail"
