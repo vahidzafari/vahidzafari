@@ -1,4 +1,4 @@
-# Hi, I'm Vahid Zafari
+# Hi, I'm Vahid
 
 Born in 1986 and after 2005 became a python programmer. I dropout the university because of the low level education after that start learning the university courses myself from https://github.com/ossu/computer-science#intro-cs. I always like to be a full-stack designer and developer which can mixed architecture with code. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Some of my hobbies are montain climbing, reading books, swimming, creating hand crafted software, learning new things.
 
