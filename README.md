@@ -277,14 +277,6 @@ Born in 1986 and after 2005 became a python programmer. I dropout the university
       height="40"
     />
     </a>
-    <a href="https://tyk.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tyk/tyk-icon.svg"
-      alt="tyk gateway"
-      width="40"
-      height="40"
-    />
-    </a>
 </p>
 
 <h3 align="left">Orchestration:</h3>
