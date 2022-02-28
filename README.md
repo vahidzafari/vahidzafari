@@ -2,15 +2,6 @@
 
 Born in 1986 and after 2005 became a python programmer. I dropout the university because of the low level education after that start learning the university courses myself from https://github.com/ossu/computer-science#intro-cs. I always like to be a full-stack designer and developer which can mixed architecture with code. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Some of my hobbies are montain climbing, reading books, swimming, creating hand crafted software, learning new things.
 
-## My experiences
-
-- Frontend developer (Vue.js): create a chat application in Vue.js with the technologies like webrtc, RBAC
-- Frontend developer (Vue.js): create a e-commerce application in Vue.js for a restaurant (over 1000 pages)
-- Frontend developer (React.js): create a cryptocurency application in React.js for PSP, Exchange, Reports, Charts
-- Backend developer (Python): create a print server application for printing restaurant jobs
-- Backend developer (Python): create a Car Number detection in python with OCR
-- Product manager: working as a product manager for an ecommerce website www.ahan.vip and used tools like jira (project managment), draw.io (for creating UML, Database schema, Application Scaffold, ...), Slack (for communication), Figma (for designers). Connect team members to each other and solve their problems
-- Product owner: working as a product owner for an cryptocurrency website. Launch exchange, psp. Connect it to Binance APIs. Try to launch a Bitcoin and Ethereum core.
 
 <h3 align="left">My contact:</h3>
 <p align="left">Find out more about me & feel free to connect with me here:</p>
