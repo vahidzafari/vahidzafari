@@ -6,7 +6,9 @@ Born in 1986 and after 2005 became a python programmer. I dropout the university
 
 #### Architecture:
 I use MVC, Transactional Design, N-Tier, Port & Adapter, Event sourcing, Event driven, Outbox pattern, CQRS, Repository pattern, and DDD architecture depending on the project requirements. I use Monolith for short-term and Microservice for Long-term software support. Use event storming to design an event driven system (Miro or Draw.io). Depending on the architecture use Unit test (jest, pytest), Integration test (jest, pytest), BDD (Cucumber). Use design patterns, SOLID patterns, IOC, and application best practices to raise the code quality.
-Frontend: Creating a chat application with technologies like webrtc, RBAC, admin panel, MVVM architecture, Atomic Design (For components), and web socket for live interaction. Working on vue and react frameworks. Use UI use cases like Material Design. Use stores like Redux and Vuex. Has experience in Nuxt and Next frameworks.
+
+#### Frontend: 
+Creating a chat application with technologies like webrtc, RBAC, admin panel, MVVM architecture, Atomic Design (For components), and web socket for live interaction. Working on vue and react frameworks. Use UI use cases like Material Design. Use stores like Redux and Vuex. Has experience in Nuxt and Next frameworks.
 
 #### Backend: 
 I don’t stick to just one framework or programming languages. Running a backend service to properly work is like managing many services, languages and communications to handle a single request. Use Logging (Sentry), Security, CAP theorem, Oauth 2 server, Kong API Gateway. Use Restful APi for microservices, Graphql for Monolith, and gRPC for streaming. Has experience in Django, Flask, Nestjs Frameworks. Use Apache Bench to test application resilience and concurrent requests.
