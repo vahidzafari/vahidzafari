@@ -36,14 +36,6 @@ Running an E-commerce application for buying a product and redirecting to paymen
       height="40"
     />
   </a>
-  <a href="https://wa.me/989128149776" target="_blank" rel="noreferrer" title="+989128149776">
-    <img
-      src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg"
-      alt="whatsapp"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="mailto:zafarivahid@gmail.com" target="_blank" rel="noreferrer" title="zafarivahid@gmail.com">
     <img
       src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
