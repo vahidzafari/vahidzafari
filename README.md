@@ -33,8 +33,6 @@ I started learning the university courses myself from <https://github.com/ossu/c
 
 ## Stacks & Skills
 
-<h3 align="left">Structure, Design and Clean Code:</h3>
-
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
