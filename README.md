@@ -1,21 +1,6 @@
-# Hi, I'm Vahid
+# _Hi, I'm Vahid_
 
-I started learning the university courses myself from https://github.com/ossu/computer-science#intro-cs. I always like to be a full-stack designer and developer who can mix architecture with the code. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Some of my hobbies are mountain climbing, reading books, swimming, creating handcrafted software, and learning new things.
-
-## My experiences
-
-#### Architecture:
-I use MVC, Transactional Design, N-Tier, Port & Adapter, Event sourcing, Event driven, Outbox pattern, CQRS, Repository pattern, and DDD architecture depending on the project requirements. I use Monolith for short-term and Microservice for Long-term software support. Use event storming to design an event driven system (Miro or Draw.io). Depending on the architecture use Unit test (jest, pytest), Integration test (jest, pytest), BDD (Cucumber). Use design patterns, SOLID patterns, IOC, and application best practices to raise the code quality.
-
-#### Frontend: 
-Creating a chat application with technologies like webrtc, RBAC, admin panel, MVVM architecture, Atomic Design (For components), and web socket for live interaction. Working on vue and react frameworks. Use UI use cases like Material Design. Use stores like Redux and Vuex. Has experience in Nuxt and Next frameworks.
-
-#### Backend: 
-I don’t stick to just one framework or programming languages. Running a backend service to properly work is like managing many services, languages and communications to handle a single request. Use Logging (Sentry), Security, CAP theorem, Oauth 2 server, Kong API Gateway. Use Restful APi for microservices, Graphql for Monolith, and gRPC for streaming. Has experience in Django, Flask, Nestjs Frameworks. Use Apache Bench to test application resilience and concurrent requests.
-
-#### Application: 
-Running an E-commerce application for buying a product and redirecting to payment gateway then shipping the products. Running exchange cryptocurrency application to buy and sell cryptocurrency along with payment gateway, and use crypto core like Bitcoin, Ethereum, … or handle a connection to Binance or Kucoin REST API. Running a chat application with Webrtc technology over Janus Gateway to connect a client to a consultant.
-
+I started learning the university courses myself from <https://github.com/ossu/computer-science#intro-cs>. I always like to be a full-stack designer and engineer who can mix architecture with the code. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Some of my hobbies are mountain climbing, reading books, swimming, creating handcrafted software, and learning new things.
 
 <h3 align="left">My contact:</h3>
 <p align="left">Find out more about me & feel free to connect with me here:</p>
@@ -49,14 +34,6 @@ Running an E-commerce application for buying a product and redirecting to paymen
 ## Stacks & Skills
 
 <h3 align="left">Structure, Design and Clean Code:</h3>
-
-![SOLID](https://img.shields.io/badge/-SOLID-white?style=flat-square)
-![Design Pattern](https://img.shields.io/badge/-Design_Pattern-white?style=flat-square)
-![DDD](https://img.shields.io/badge/-DDD-white?style=flat-square)
-![Monolithic](https://img.shields.io/badge/-Monolithic-white?style=flat-square)
-![Microservice](https://img.shields.io/badge/-Microservice-white?style=flat-square)
-![EventSourcing](https://img.shields.io/badge/-EventSourcing-white?style=flat-square)
-![CQRS](https://img.shields.io/badge/-CQRS-white?style=flat-square)
 
 <h3 align="left">Languages:</h3>
 <p align="left">
