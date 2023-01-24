@@ -56,6 +56,13 @@ I started learning the university courses myself from <https://github.com/ossu/c
       src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
       alt="node.js"
       width="50"
+    />      
+  </a>
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/golang/golang.svg"
+      alt="golang"
+      width="50"
     />
   </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
