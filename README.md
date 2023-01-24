@@ -60,7 +60,7 @@ I started learning the university courses myself from <https://github.com/ossu/c
   </a>
     <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"
+      src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"
       alt="golang"
       width="50"
     />
