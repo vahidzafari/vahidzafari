@@ -181,22 +181,6 @@ I started learning the university courses myself from <https://github.com/ossu/c
       height="40"
     />
     </a>
-    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg"
-      alt="electron"
-      width="40"
-      height="40"
-    />
-    </a>
-    <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg"
-      alt="ionic"
-      width="40"
-      height="40"
-    />
-    </a>
 </p>
 
 <h3 align="left">Backend:</h3>
