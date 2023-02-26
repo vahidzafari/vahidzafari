@@ -1,5 +1,9 @@
 # _Hi, I'm Vahid_
 
+**`Blockchain Developer`**
+
+I am a Blockchain Developer with a deep understanding of blockchain technology and a strong passion for decentralized systems and focused in smart contracts. My discipline and problem-solving skills, combined with my ability to effectively manage my time, make me a valuable asset to any team.
+
 I started learning the university courses myself from <https://github.com/ossu/computer-science#intro-cs>. I always like to be a full-stack designer and engineer who can mix architecture with the code. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Some of my hobbies are mountain climbing, reading books, swimming, creating handcrafted software, and learning new things.
 
 <h3 align="left">My contact:</h3>
@@ -56,7 +60,7 @@ I started learning the university courses myself from <https://github.com/ossu/c
       src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
       alt="node.js"
       width="50"
-    />      
+    />
   </a>
     <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img
@@ -134,6 +138,26 @@ I started learning the university courses myself from <https://github.com/ossu/c
       src="https://www.vectorlogo.zone/logos/redis/redis-official.svg"
       alt="redis"
       width="80"
+      height="40"
+    />
+    </a>
+</p>
+
+<h3 align="left">Blockchain:</h3>
+<p align="left">
+    <a href="https://bitcoin.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+    </a>
+        <a href="https://ethereum.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg"
+      alt="mongodb"
+      width="40"
       height="40"
     />
     </a>
@@ -241,9 +265,9 @@ I started learning the university courses myself from <https://github.com/ossu/c
       height="40"
     />
     </a>
-    <a href="https://konghq.com" target="_blank" rel="noreferrer">
+    <a href="https://traefik.io" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/konghq/konghq-icon.svg"
+      src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg"
       alt="kong gateway"
       width="40"
       height="40"
