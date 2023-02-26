@@ -1,6 +1,6 @@
 # _Hi, I'm Vahid_
 
-**`Blockchain Developer`**
+**`Blockchain Developer`** | **`Senior Node.js Developer`**
 
 I am a Blockchain Developer with a deep understanding of blockchain technology and a strong passion for decentralized systems and focused in smart contracts. My discipline and problem-solving skills, combined with my ability to effectively manage my time, make me a valuable asset to any team.
 
