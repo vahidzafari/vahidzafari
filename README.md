@@ -1,12 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1637F7&vCenter=true&width=435&lines=Hi%2C+I'm+Vahid)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00B0F7&vCenter=true&width=435&lines=Hi%2C+I'm+Vahid)](https://git.io/typing-svg)
 
-**`Blockchain Developer`** | **`Senior Node.js Developer`**
+🚀 **`Blockchain Developer`** | **`Senior Node.js Developer`**
 
-I am a Blockchain Developer with a deep understanding of blockchain technology and a strong passion for decentralized systems and focused in smart contracts. My discipline and problem-solving skills, combined with my ability to effectively manage my time, make me a valuable asset to any team.
+💡 I am a Blockchain Developer with a deep understanding of blockchain technology and a strong passion for decentralized systems and focused in smart contracts. My discipline and problem-solving skills, combined with my ability to effectively manage my time, make me a valuable asset to any team.
 
-I started learning the university courses myself from <https://github.com/ossu/computer-science#intro-cs>. I always like to be a full-stack designer and engineer who can mix architecture with the code. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Some of my hobbies are mountain climbing, reading books, swimming, creating handcrafted software, and learning new things.
+🔭 I started learning the university courses myself from <https://github.com/ossu/computer-science#intro-cs>. I always like to be a full-stack designer and engineer who can mix architecture with the code. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Some of my hobbies are mountain climbing, reading books, swimming, creating handcrafted software, and learning new things.
 
-<p align="left">Find out more about me & feel free to connect with me here:</p>
+<p align="left">🧿 Find out more about me & feel free to connect with me here:</p>
 <p align="left">
   <a href="https://medium.com/@zafarivahid" target="_blank" rel="noreferrer" title="https://medium.com/@zafarivahid">
     <img
