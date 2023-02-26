@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Vahid%2C+A+blockchain+developer+and+senior+node.js+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1637F7&vCenter=true&width=435&lines=Hi%2C+I'm+Vahid)](https://git.io/typing-svg)
 
 **`Blockchain Developer`** | **`Senior Node.js Developer`**
 
