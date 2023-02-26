@@ -1,6 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00B0F7&vCenter=true&width=435&lines=Hi%2C+I'm+Vahid)](https://git.io/typing-svg)
 
+
+
 🚀 **`Blockchain Developer`** | **`Senior Node.js Developer`**
+
+
 
 💡 I am a Blockchain Developer with a deep understanding of blockchain technology and a strong passion for decentralized systems and focused in smart contracts. My discipline and problem-solving skills, combined with my ability to effectively manage my time, make me a valuable asset to any team.
 
