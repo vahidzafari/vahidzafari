@@ -2,7 +2,7 @@
 
 
 
-🚀 **`Blockchain Developer`** | **`Senior Node.js Developer`**
+🚀 **`Software Developer`**
 
 
 
