@@ -15,6 +15,7 @@
       alt="medium"
       width="40"
       height="40"
+      style="background:white"
     />
   </a>
   <a href="https://www.linkedin.com/in/vahid-zafari/" target="_blank" rel="noreferrer" title="https://www.linkedin.com/in/vahid-zafari/">
