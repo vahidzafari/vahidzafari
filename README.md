@@ -34,7 +34,7 @@
       height="40"
     />
   </a>  
-  <a href="https://www.buymeacoffee.com/vahid.zafari" target="_blank" rel="noreferrer" title="Buy Me a Coffee">
+  <a href="https://www.buymeacoffee.com/vahid.zafari" target="_blank" rel="noreferrer" title="https://www.buymeacoffee.com/vahid.zafari">
     <img
       src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-icon.svg"
       alt="gmail"
