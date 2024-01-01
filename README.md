@@ -42,6 +42,3 @@
     />
   </a>
 </p>
-
-
-https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg
