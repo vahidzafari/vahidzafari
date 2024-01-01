@@ -38,7 +38,6 @@
     <img
       src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"
       alt="gmail"
-      width="40"
       height="40"
     />
   </a>
