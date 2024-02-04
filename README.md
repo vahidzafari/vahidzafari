@@ -2,10 +2,10 @@
 
 
 
-🚀 **`Software Developer`**
+🚀 **`Software Engineer`**
 
 
-🔭 I started learning the university courses myself from <https://github.com/ossu/computer-science#intro-cs>. I always like to be a full-stack designer and engineer who can mix architecture with the code. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Some of my hobbies are mountain climbing, reading books, swimming, creating handcrafted software, and learning new things.
+🔭 I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Some of my hobbies are mountain climbing, reading books, swimming, creating handcrafted software, and learning new things.
 
 <p align="left">🧿 Find out more about me & feel free to connect with me here:</p>
 <p align="left">
