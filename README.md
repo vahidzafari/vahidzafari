@@ -18,7 +18,7 @@
       style="background:white"
     />
   </a>
-  <a href="https://www.linkedin.com/in/vahid-zafari/" target="_blank" rel="noreferrer" title="https://www.linkedin.com/in/vahid-zafari/">
+  <a href="https://www.linkedin.com/in/this-is-vahid/" target="_blank" rel="noreferrer" title="https://www.linkedin.com/in/this-is-vahid/">
     <img
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
       alt="linkedin"
