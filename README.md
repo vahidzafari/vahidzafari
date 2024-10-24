@@ -9,7 +9,7 @@
 
 <p align="left">🧿 Find out more about me & feel free to connect with me here:</p>
 <p align="left">
-  <a href="https://medium.com/@zafarivahid" target="_blank" rel="noreferrer" title="https://medium.com/@zafarivahid">
+  <a href="https://medium.com/@this-is-vahid" target="_blank" rel="noreferrer" title="https://medium.com/@this-is-vahid">
     <img
       src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg"
       alt="medium"
@@ -25,6 +25,14 @@
       width="40"
       height="40"
     />
+  </a>  
+  <a href="https://www.youtube.com/@this-is-vahid" target="_blank" rel="noreferrer" title="https://www.youtube.com/@this-is-vahid">
+    <img
+      src="https://www.vectorlogo.zone/logos/linkedin/youtube-icon.svg"
+      alt="youtube"
+      width="40"
+      height="40"
+    />
   </a>
   <a href="mailto:zafarivahid@gmail.com" target="_blank" rel="noreferrer" title="zafarivahid@gmail.com">
     <img
@@ -33,7 +41,7 @@
       width="40"
       height="40"
     />
-  </a>  
+  </a>    
   <a href="https://www.buymeacoffee.com/vahid.zafari" target="_blank" rel="noreferrer" title="https://www.buymeacoffee.com/vahid.zafari">
     <img
       src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-icon.svg"
