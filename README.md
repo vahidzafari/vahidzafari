@@ -28,7 +28,7 @@
   </a>  
   <a href="https://www.youtube.com/@this-is-vahid" target="_blank" rel="noreferrer" title="https://www.youtube.com/@this-is-vahid">
     <img
-      src="https://www.vectorlogo.zone/logos/linkedin/youtube-icon.svg"
+      src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"
       alt="youtube"
       width="40"
       height="40"
